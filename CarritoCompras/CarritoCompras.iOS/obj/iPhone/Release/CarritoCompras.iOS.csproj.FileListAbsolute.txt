@@ -1,0 +1,136 @@
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\CarritoCompras.iOS.exe
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Newtonsoft.Json.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Core.pdb
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.pdb
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\CarritoCompras.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\CarritoCompras.pdb
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.pdb
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\optimized\
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\CarritoCompras.iOS.csprojAssemblyReference.cache
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\CarritoCompras.iOS.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\CarritoCompras.iOS.csproj.CopyComplete
+D:\WorkSpaceAD\TEST DE APP XAMARIN\AppVentas\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\CarritoCompras.iOS.exe
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\CarritoCompras.iOS.exe
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\CommonServiceLocator.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Firebase.Auth.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Firebase.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\LiteDB.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\GalaSoft.MvvmLight.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\GalaSoft.MvvmLight.pdb
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Newtonsoft.Json.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\SQLite-net.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\SQLitePCLRaw.core.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\System.Buffers.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\System.Memory.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\System.Reactive.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Essentials.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Essentials.pdb
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Core.pdb
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\CarritoCompras.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\CarritoCompras.pdb
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\optimized\
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\CarritoCompras.iOS.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\CarritoCompras.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\CarritoCompras.iOS.csproj.CopyComplete
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\obj\iPhone\Release\CarritoCompras.iOS.exe
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Microsoft.AppCenter.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Microsoft.AppCenter.iOS.Bindings.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Microsoft.AppCenter.Analytics.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Microsoft.AppCenter.Crashes.dll
+C:\Users\Jesus\Desktop\Proyecto\APP VENTAS\CarritoCompras\CarritoCompras\CarritoCompras.iOS\bin\iPhone\Release\Microsoft.AppCenter.Crashes.iOS.Bindings.dll
